@@ -1,0 +1,8 @@
+# Keep generated project artifacts out of Git; publish only output assets.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/output/
+!/output/**
+.DS_Store
